@@ -69,11 +69,11 @@ This project is intended for personal and academic use.
 ## Screenshots
 
 ### Step 1: Open the Dashboard
-https://github.com/kurtrohan22-pixel/Escaudro_Wst/blob/main/86f2e317-f9cf-4c8d-9ff1-daca023e038c.png
+![](86f2e317-f9cf-4c8d-9ff1-daca023e038c.png)
 
 ### Step 2: Fill Out the Add New Task Form
-https://github.com/kurtrohan22-pixel/Escaudro_Wst/blob/main/13318f03-2c28-45e7-9982-abb8c5d08795.png
+![](13318f03-2c28-45e7-9982-abb8c5d08795.png)
 
 ### Step 3: View and Manage Your Task
-https://github.com/kurtrohan22-pixel/Escaudro_Wst/blob/main/a002fe88-69e6-4ee8-8818-3c4f42782a03.png
+![](a002fe88-69e6-4ee8-8818-3c4f42782a03.png)
 
